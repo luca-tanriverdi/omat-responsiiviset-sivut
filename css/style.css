@@ -7,7 +7,7 @@ body {
     min-height: 100vh;
     margin: 0;
     color: royalblue;
-    background-color: #f8f9fab9;
+    background-color: #f8f9fa;
 }
 
 main {
@@ -40,7 +40,8 @@ h2.otsikkoteksti {
 .navbar {
     background-color: #f8f9fa;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    padding: 0.4rem
+    padding: 0.4rem;
+    color: #333;
 }
 .navbar-brand {
     font-size: 1.0rem;
@@ -49,10 +50,10 @@ h2.otsikkoteksti {
 }
 
 footer {
-    background-color: #e3effc;
-    padding: 1rem;
+    background-color: #f8f9fa;
+    padding: 0.4rem;
     text-align: center;
     margin-top: auto;
     color: #333;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
 }
