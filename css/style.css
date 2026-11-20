@@ -18,11 +18,8 @@ main {
     margin-top: 4rem;
     padding-top: 4rem;
 }
-.section:last-of-type {
-    padding-bottom: 4rem;
-}
 
-.bgimage {
+.taustakuva {
     height:100vh;
     background: url('../kuvat/etusivu.jpeg');
     background-size:cover;
