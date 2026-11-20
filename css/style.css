@@ -95,6 +95,10 @@ h2.otsikkoteksti {
     margin: 0 auto;
 }
 
+#ohjelmointikielet {
+    font-size: 1.2rem;
+}
+
 footer {
     background-color: #f8f9fa;
     padding: 0.4rem;
